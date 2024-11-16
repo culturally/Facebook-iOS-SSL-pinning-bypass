@@ -26,6 +26,7 @@ Get your private api endpoints now!
 
 | Icon | Bundle ID | Version | File Type | Download |
 | ------------------ |:------:|:------:|:------:|:------:|
+| <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" width="20">| [com.facebook.Facebook](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/483.0.0/Facebook483.0.0.ipa) | 483.0.0 | IPA | [Click here](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/483.0.0/Facebook483.0.0.ipa) |
 | <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" width="20">| [com.facebook.Facebook](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/466.0.0/Facebook466.0.0.ipa) | 466.0.0 | IPA | [Click here](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/466.0.0/Facebook466.0.0.ipa) |
 
 
