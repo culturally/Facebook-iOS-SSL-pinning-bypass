@@ -3,14 +3,9 @@
 Facebook iOS with SSL pinning bypassed / Facebook with certificate pinning bypassed.
 Get your private api endpoints now!
 
-## Support Me
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="20">**Bitcoin:** 1LightUfhnFKgZqcsfiKoxciQbPB384PqM   
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Solana_logo.png/252px-Solana_logo.png" width="20">**Solana:** 4a91vFCz8SjnqWiJpFuLWwWFpWdT9dZq13hG4o8icv2n   
-<img src="https://cdn.freebiesupply.com/logos/large/2x/litecoin-logo-png-transparent.png" width="20">**Litecoin:** MFi28zedB78kaNiRpi9eBkFRTtGZNoxcWv   
-
 ## Info
 
-- Current version which was bypassed: 466.0.0
+- Current version which was bypassed: 501.0.0 (Later versions available but not for free release)
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
@@ -26,6 +21,7 @@ Get your private api endpoints now!
 
 | Icon | Bundle ID | Version | File Type | Download |
 | ------------------ |:------:|:------:|:------:|:------:|
+| <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" width="20">| [com.facebook.Facebook](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/501.0.0/Facebook501.ipa) | 501.0.0 | IPA | [Click here](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/483.0.0/Facebook501.ipa) |
 | <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" width="20">| [com.facebook.Facebook](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/483.0.0/Facebook483.0.0.ipa) | 483.0.0 | IPA | [Click here](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/483.0.0/Facebook483.0.0.ipa) |
 | <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" width="20">| [com.facebook.Facebook](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/466.0.0/Facebook466.0.0.ipa) | 466.0.0 | IPA | [Click here](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/releases/download/466.0.0/Facebook466.0.0.ipa) |
 
