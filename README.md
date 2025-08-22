@@ -43,6 +43,8 @@ SSL pinning, also known as certificate pinning or public key pinning, is a secur
 
 When a client (such as a web browser or a mobile app) connects to a server over HTTPS, the server presents its SSL/TLS certificate to prove its identity. Normally, the client verifies the server's certificate by checking if it is signed by a trusted Certificate Authority (CA). However, SSL pinning adds an extra layer of security by requiring the client to validate the server's certificate against a known, pre-configured set of certificates or public keys, rather than solely relying on the CA's trust chain.
 
+You can learn and read about SSL Pinning here: https://yinsolutions.org/blogs/ssl-pinning.html
+
 
 ## Disclaimer
 This project is for educational purposes only. It demonstrates bypassing SSL pinning in binaries, such as those used by Instagram/Meta, to help developers and researchers understand security vulnerabilities.
