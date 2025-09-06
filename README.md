@@ -5,7 +5,7 @@ Get your private api endpoints now!!
 
 ## Info
 
-- Current version which was bypassed: 501.0.0 (Later versions available but not for free release)
+- Current version which was bypassed: 514.0.0 (Unreleased currently private)
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
